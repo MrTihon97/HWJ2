@@ -1,0 +1,20 @@
+Feb 19, 2023 4:16:56 PM Task2 babblSort
+INFO: [51, 61, 11, 97, 20, 89, 11, 24, 57, 10]
+Feb 19, 2023 4:16:56 PM Task2 babblSort
+INFO: [61, 51, 97, 20, 89, 11, 24, 57, 11, 10]
+Feb 19, 2023 4:16:56 PM Task2 babblSort
+INFO: [61, 97, 51, 89, 20, 24, 57, 11, 11, 10]
+Feb 19, 2023 4:16:56 PM Task2 babblSort
+INFO: [97, 61, 89, 51, 24, 57, 20, 11, 11, 10]
+Feb 19, 2023 4:16:56 PM Task2 babblSort
+INFO: [97, 89, 61, 51, 57, 24, 20, 11, 11, 10]
+Feb 19, 2023 4:16:56 PM Task2 babblSort
+INFO: [97, 89, 61, 57, 51, 24, 20, 11, 11, 10]
+Feb 19, 2023 4:16:56 PM Task2 babblSort
+INFO: [97, 89, 61, 57, 51, 24, 20, 11, 11, 10]
+Feb 19, 2023 4:16:56 PM Task2 babblSort
+INFO: [97, 89, 61, 57, 51, 24, 20, 11, 11, 10]
+Feb 19, 2023 4:16:56 PM Task2 babblSort
+INFO: [97, 89, 61, 57, 51, 24, 20, 11, 11, 10]
+Feb 19, 2023 4:16:56 PM Task2 babblSort
+INFO: [97, 89, 61, 57, 51, 24, 20, 11, 11, 10]
